@@ -118,6 +118,7 @@ GUI:Robo 3T  2018.3.0
 语法
     show collections
 
+删除：
 语法
     db.集合名称.drop()
 
